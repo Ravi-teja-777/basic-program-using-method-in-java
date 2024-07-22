@@ -1,0 +1,12 @@
+
+public class github{
+    
+    static void method(){
+        System.out.println("This code is written using methods!");
+    }
+    
+    public static void main(String args[]){
+        method();
+    }
+    
+}
